@@ -1,0 +1,26 @@
+{
+  "name": "inoting-backend",
+  "version": "1.0.0",
+  "description": "This is a backend for iNoting app.",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "nodemon ./src/app.js",
+    "swagger": "node swagger.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@mahendra-shah",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "swagger-ui-express": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "swagger-autogen": "^2.23.7"
+  }
+}
