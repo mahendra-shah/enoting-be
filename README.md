@@ -1,4 +1,4 @@
-# <p align="center"> iNoting Backend </p>
+# <p align="center"> eNoting Backend </p>
 <div align="center"> 
 <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license." /> 
 <img src="https://img.shields.io/github/last-commit/mahendra-shah/inoting-backend?style=for-each-one&label=Last%20Commit" alt="Last Commit"> 
