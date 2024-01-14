@@ -8,16 +8,6 @@ const doc = {
     },
     host: `localhost:${process.env.PORT}`,
     schemes: ['http', 'https'],
-    tags: [
-        {
-            name: 'User',
-            description: 'API operations related to user management'
-        },
-        {
-            name: 'Notes',
-            description: 'API operations related to notes management'
-        },
-    ],
     securityDefinitions: {
         apiKey: {
             type: 'apiKey',
